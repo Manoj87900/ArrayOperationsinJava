@@ -1,4 +1,4 @@
-# Creating-an-Application---Finding-a-doctor.
+# Creating App---Finding-a-doctor.
 Mission : To provide high-quality, trusted, and accessible healthcare. 
 Find a doctor is the start of a better health care journey helping people to find and book doctors of their choice ensuring requirements are attended in confidential and caring manner. 
 Empowering our users with the most accurate, comprehensive and curated information enabling them to make better healthcare decisions is our sole reason for being.
